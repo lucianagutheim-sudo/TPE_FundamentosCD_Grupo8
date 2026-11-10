@@ -1,1 +1,5 @@
+#entorno virtual
 tpe_especial/
+
+#copia de seguridad de jupyter
+.ipynb_checkpoints/
