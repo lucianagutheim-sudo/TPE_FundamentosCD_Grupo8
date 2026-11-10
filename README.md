@@ -7,7 +7,7 @@
 
 ---
 ## Organizacion del notebook
-El analisis esta estructurado de en secciones.
+El analisis esta estructurado en secciones.
 - **Secciones 1 a 4** 
  Limpieza y preprocesamiento (descarga del dataset y eliminacion de columnas intrascendentes), análisis de nulos,   filtrado de valores irreales/imposibles y detección de outliers mediante (con IQR).   
  - **Secciones 5 a 8**
@@ -22,6 +22,7 @@ El analisis esta estructurado de en secciones.
    git clone https://github.com/lucianagutheim-sudo/TPE_FundamentosCD_Grupo8.git
     ```
 [Enlace al repositorio](https://github.com/lucianagutheim-sudo/TPE_FundamentosCD_Grupo8)
+
 2. Entrar al directorio del proyecto:
    ```bash
    cd TPE_FundamentosCD_Grupo8
@@ -50,7 +51,6 @@ El analisis esta estructurado de en secciones.
 ---
 ## Requerimientos
 Esta implementado con **Python3** en un notebook de Jupyter. Utiliza las siguientes dependencias:
-El archivo requirements.txt contiene las librerias e instalaciones necesarias.
 - `jupyter`
 - `notebook`
 - `ipykernel`
@@ -62,3 +62,4 @@ El archivo requirements.txt contiene las librerias e instalaciones necesarias.
 - `scikit-learn`
 - `scipy`
 - `statsmodels`
+*El archivo requirements.txt contiene las librerias e instalaciones necesarias.*
