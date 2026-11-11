@@ -10,9 +10,9 @@
 El analisis esta estructurado en secciones.
 - **Secciones 1 a 4** 
  Limpieza y preprocesamiento (descarga del dataset y eliminacion de columnas intrascendentes), análisis de nulos,   filtrado de valores irreales/imposibles y detección de outliers mediante (con IQR).   
- - **Secciones 5 a 8**
+ - **Secciones 5 a 7**
   Análisis Exploratorio (EDA) y PCA: Matrices de dispersión para entender las relaciones bivariadas entre nutrientes. Tambien se realizo una reducción de dimensionalidad mediante un Análisis de Componentes Principales (PCA) con datos estandarizados.   
-- **Secciones 9 a 14**
+- **Secciones 8 a 13**
  Pruebas de Hipótesis Estadísticas: Tests de normalidad (shapiro) y pruebas paramétricas/no paramétricas. Hipótesis univariadas (9, 12), bivariada (10, 13) y multivariadas (11, 14).
 
 ---
